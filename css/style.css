@@ -44,10 +44,10 @@ a{margin: 10px;
               top: 300px;}
 .profpic{border-radius: 100%;
          size: 25%;
-         margin-bottom: 10px;
+         margin-bottom: 30px;
          position:relative;
          top: 50px;
-         padding-bottom: 20px;}
+         }
 .skills{background-color: inherit;}
 .contact-me{
             padding-top: 100px;
